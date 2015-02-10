@@ -1,2 +1,4 @@
-# phpunit
-this is php project for testing the travis ci functionality, performance and use.
+TheGuruCoder-PHPUnit-Tutorial
+=============================
+
+[![Build Status](https://travis-ci.org/andrefigueira/TheGuruCoder-PHPUnit-Tutorial.svg?branch=master)](https://travis-ci.org/andrefigueira/TheGuruCoder-PHPUnit-Tutorial)
