@@ -8,7 +8,7 @@ $pages = new \Controllers\Core\Web\Pages();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>TheGuruCoder PHPUnit Tutorial</title>
+    <title>TheGuruCoder ashwani kumar singhj PHPUnit Tutorial</title>
 </head>
 <body>
 
